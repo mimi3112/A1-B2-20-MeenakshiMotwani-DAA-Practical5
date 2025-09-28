@@ -6,7 +6,7 @@ Aim: Implement Longest Common Subsequence (LCS) algorithm to find the length and
 Problem Statement: DNA sequences can be viewed as strings of A, C, G, and T characters, which represent nucleotides. Finding the similarities between two DNA sequences are an important computation performed in bioinformatics.
 [Note that a subsequence might not include consecutive elements of the original sequence.]
 
-## Code files:
+### Code files:
 1)TASK-1: Find the similarity between the given X and Y sequence.
 X=AGCCCTAAGGGCTACCTAGCTT
 Y= GACAGCCTACAAGCGTTAGCTTG
