@@ -19,4 +19,4 @@ Example:
 AABCBDC
 LRS= ABC or ABD
 
-3) Leetcode Assessment
+3) Leetcode Assessment(Solution.java)
